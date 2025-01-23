@@ -8,6 +8,8 @@ Methods
 Quantitative Comparison
 -----------------
 <img width="1096" alt="image" src="images/result.png">
+-----------------
+<img width="1096" alt="image" src="images/result_building.png">
 
 ### :speech_balloon: Dataset Preparation
 
