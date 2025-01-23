@@ -1,6 +1,10 @@
 # A Spatial–Temporal Difference Aggregation Network for Gaofen-2 Multitemporal Image in Cropland Change Area
 - Code for the paper: "A Spatial–Temporal Difference Aggregation Network for Gaofen-2 Multitemporal Image in Cropland Change Area", JSTARS 2025. [[IEEE JSTARS]](https://ieeexplore.ieee.org/document/10813395)
 
+Challenge
+-----------------
+<img width="1096" alt="image" src="images/diffcult.png">
+
 Methods
 -----------------
 <img width="1096" alt="image" src="images/STDAN.png">
